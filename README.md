@@ -27,7 +27,7 @@ The entire application is **hosted on an EC2 instance** with an **Apache server*
 
 ## Tech Stack
 
-**Frontend:** 
+**Frontend** 
  - React.js
  - Next.js
  - TypeScript
@@ -35,7 +35,7 @@ The entire application is **hosted on an EC2 instance** with an **Apache server*
  - ChakraUI
  - Framer Motion
 
-**Backend:** 
+**Backend** 
 - AWS S3
 - AWS DynamoDB
 - AWS API Gateway
