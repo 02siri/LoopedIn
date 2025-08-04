@@ -1,6 +1,6 @@
 
 # LoopedIn
-https://github.com/02siri/LoopedIn/blob/main/public/registerBG.jpg?raw=true
+![registerBG](https://github.com/user-attachments/assets/7206ff26-d47f-4398-8ba8-0f7e7387f4f7)
 
 LoopedIn is a sophisticated **serverless music subscription web application** designed to provide users with a seamless and interactive experience in managing their music subscriptions. 
 
