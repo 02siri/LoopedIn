@@ -1,6 +1,7 @@
 
 # LoopedIn 
-![registerBG](https://github.com/user-attachments/assets/7206ff26-d47f-4398-8ba8-0f7e7387f4f7)
+<img width="1432" height="724" alt="LI_Home" src="https://github.com/user-attachments/assets/4e4cb388-5c38-40e9-b956-5ea9a0d444c6" />
+
 
 https://looped-in-pi.vercel.app/
 
